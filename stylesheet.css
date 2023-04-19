@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top_start_section{
+    background-color: #f2f2f2;
+    padding: 60px 20px;
+}
+.top_start_section h3{
+    font-size: 35px;
+    font-weight: 700;
+}
+.top_start_section p{
+    font-size: 15px;
+    color: #999;
+}
+.price_list{
+    padding: 60px 20px;
+    background-color: #ddd;
+}
+.price_list .card{
+    border: none;
+    border-radius: 0;
+    padding: 20px 60px;
+    text-align: center;
+}
+
+.price_list .card h5{
+    font-size: 30px;
+    font-weight: 700;
+}
+.price_list .card h3{
+    background-color: rgba(0,0,0,0.1);
+    padding: 20px 10px;
+    font-size: 15px;
+    border-radius: 4px;
+    color: #a0a0a0;
+    margin: 18px 0 0 10px;
+}
+.price_list .card .btn{
+    background-color: #ff5e14;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700 ;
+}
+.price_list .card h3 span{
+    font-size: 25px;
+}
+.price_list .card .card-text{
+    color: #6f6f6f;
+    padding: 15px 0;
+} 
+.price_list .colorful{
+    background-color: #ff5e14;
+    margin: -20px 0;
+    padding-bottom: 40px;
+    color: #fff;
+}
+.price_list .colorful h3{
+    color: #fff;
+}
+.price_list .colorful .card-text{
+    color: #fff;
+    font-size: 15px;
+    margin: 10px 0;
+}
+.price_list .colorful .btn{
+    background-color: #fff;
+    color: #000;
+    font-size: 20px;
+    font-weight: 700;
+}
